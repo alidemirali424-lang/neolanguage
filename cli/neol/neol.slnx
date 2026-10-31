@@ -1,3 +1,4 @@
 <Solution>
   <Project Path="neol/neol.csproj" />
+  <Version>v0.1.0 Alpha</Version>
 </Solution>
