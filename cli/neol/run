@@ -1,0 +1,3 @@
+cd neol
+dotnet run $1
+cd ..
